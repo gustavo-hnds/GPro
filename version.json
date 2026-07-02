@@ -1,5 +1,5 @@
 {
   "version": "1.0.4",
   "download_url": "https://github.com/gustavo-hnds/GPro/releases/latest",
-  "notes": "Adição de novas ferramentas"
+  "notes": "Ajuste nas funções 'Microdesk'\n Adição das ferramentas:\n - Corte Reduzido;\n - Clean;\n - Rotacionar 180°;\n - Somatório Parâmetros;\n - Achar em Planta;\n - Mudar Level;\n - Editar Links Geral;\n - Alinhar Legendas;"
 }
