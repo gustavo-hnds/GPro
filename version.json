@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.4",
   "download_url": "https://github.com/gustavo-hnds/GPro/releases/latest",
-  "notes": "Ajuste nas funções 'Microdesk'.\n\nAdição das ferramentas:\n • Corte Reduzido;\n • Clean;\n • Rotacionar 180°;\n • Somatório Parâmetros;\n • Achar em Planta;\n • Mudar Level;\n • Editar Links Geral;\n • Alinhar Legendas;"
+  "notes": "Ajuste nas funções 'Microdesk'.\n\nMelhorias:\n • Lançar Detectores (melhoria no algoritmo de lançamento);\n • Hatch Piso e Parede (maior compatibilidade com arquiteturas em IFC).\n\nAdição das ferramentas:\n • Corte Reduzido;\n • Clean;\n • Rotacionar 180°;\n • Somatório Parâmetros;\n • Achar em Planta;\n • Mudar Level de Referência;\n • Editar Links Geral;\n • Alinhar Legendas;\n • Renumerar Elementos;\n • Bloom Microdesk;\n • Desocultar Elementos Ocultos com EH;\n • Ref. Nível;\n • Corte Esquemático;"
 }
