@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "download_url": "https://github.com/gustavo-hnds/GPro/releases/latest",
   "notes": "Novos comandos:\n • Recarregar Famílias em Massa (recarrega famílias existentes a partir de novos arquivos ou carrega famílias inexistentes em lote);\n • Renumerar Elementos (aplica numeração sequencial em parâmetros de elementos por seleção manual ou critérios automáticos);\n • Joelho 45° para Cima (insere automaticamente um joelho de 45° voltado para cima);\n • Alinhar com Paredes Próximas (alinha elementos selecionados à face da parede mais próxima);\n • Ajustar Crop View em Massa (ajusta a região de recorte das vistas selecionadas com base em dois pontos definidos pelo usuário);\n • Lançamento de Sprinklers (realiza o lançamento preliminar de bicos de sprinkler considerando distribuição por grelha ou por ramal);\n • Inserir Cotas de Nível (insere cotas de nível em ambientes, inclusive em situações onde a anotação nativa do Revit apresenta falhas);\n • Abertura de Vãos de Porta em IFC (insere hachuras nos vãos de portas de links IFC cuja geometria não representa corretamente as aberturas).\n\nMelhorias:\n • Tag Prumadas PCI (permite selecionar todas as prumadas do pavimento simultaneamente, realizando o agrupamento automático e o alinhamento das tags conforme as configurações definidas pelo usuário)."
 }
